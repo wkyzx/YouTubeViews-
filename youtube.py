@@ -55,7 +55,7 @@ class Views(Browser, Tor):
         try:
             if self.watch(url):
                 views = self.targets[url]
-                self.targets[url] = views + 1
+                self.targets[https://youtu.be/w-2GCSXuWEY?si=GWTdOHoj1bAXPSGn] = views + 1
         except:pass
         finally:self.count -= 1
 
